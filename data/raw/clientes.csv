@@ -1,0 +1,21 @@
+id_cliente,nome,email,cidade,estado
+1,Ana Liz Marques,nsantos@example.com,Pastor da Mata,PA
+2,Alice Sales,benjamim81@example.net,Macedo de Abreu,MA
+3,Calebe Fernandes,lucca56@example.net,Freitas,PR
+4,Carlos Eduardo Pimenta,irezende@example.net,Barros,RO
+5,Ana Lívia Santos,araujoluiz-felipe@example.net,Moraes,GO
+6,Vitória Montenegro,igor64@example.org,Garcia,MT
+7,Hadassa Siqueira,uda-rosa@example.net,da Mota Grande,AC
+8,Daniela Caldeira,ana-lizguerra@example.com,Siqueira de Araújo,SP
+9,Lorenzo Castro,nataliacassiano@example.org,Lopes do Sul,RO
+10,Maria Isis Cavalcanti,cavalcanteandre@example.com,Macedo,MG
+11,Juan Cavalcanti,pedro-lucas87@example.com,Marques das Pedras,PA
+12,Lívia Nogueira,ana-liviacorreia@example.com,Guerra da Mata,ES
+13,Leonardo Casa Grande,wda-costa@example.net,Pires,SC
+14,Lívia Castro,da-matahenrique@example.net,Rezende,AP
+15,Isaque Gomes,oliver55@example.com,Casa Grande do Amparo,MS
+16,Henry Novais,juanda-conceicao@example.com,Carvalho Verde,SC
+17,Luísa Porto,joaquimdas-neves@example.com,Lopes,BA
+18,Leandro Castro,jda-paz@example.com,Fonseca,GO
+19,Gabriela Sampaio,isampaio@example.com,Costa da Praia,RO
+20,Luna Gonçalves,gabrielasouza@example.net,Cirino,RR
