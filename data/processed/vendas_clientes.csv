@@ -1,0 +1,101 @@
+id_cliente,nome,email,cidade,estado,id_venda,data_venda,produto,valor
+1,Ana Liz Marques,nsantos@example.com,Pastor da Mata,PA,34,2025-09-08,Teclado,2659.77
+1,Ana Liz Marques,nsantos@example.com,Pastor da Mata,PA,50,2025-10-16,Teclado,2147.92
+1,Ana Liz Marques,nsantos@example.com,Pastor da Mata,PA,83,2025-09-15,Monitor,1332.15
+1,Ana Liz Marques,nsantos@example.com,Pastor da Mata,PA,85,2025-05-29,Headset,1612.2
+1,Ana Liz Marques,nsantos@example.com,Pastor da Mata,PA,93,2025-05-23,Mouse,938.45
+1,Ana Liz Marques,nsantos@example.com,Pastor da Mata,PA,98,2025-06-19,Mouse,2058.41
+2,Alice Sales,benjamim81@example.net,Macedo de Abreu,MA,10,2025-09-04,Headset,2576.28
+2,Alice Sales,benjamim81@example.net,Macedo de Abreu,MA,20,2025-08-18,Mouse,1375.93
+2,Alice Sales,benjamim81@example.net,Macedo de Abreu,MA,46,2025-08-06,Notebook,2992.21
+2,Alice Sales,benjamim81@example.net,Macedo de Abreu,MA,59,2025-08-28,Teclado,892.19
+2,Alice Sales,benjamim81@example.net,Macedo de Abreu,MA,60,2025-07-20,Monitor,221.51
+2,Alice Sales,benjamim81@example.net,Macedo de Abreu,MA,62,2025-05-02,Monitor,757.52
+2,Alice Sales,benjamim81@example.net,Macedo de Abreu,MA,69,2025-06-17,Notebook,826.53
+2,Alice Sales,benjamim81@example.net,Macedo de Abreu,MA,86,2025-08-08,Headset,949.11
+3,Calebe Fernandes,lucca56@example.net,Freitas,PR,7,2025-05-09,Teclado,94.8
+3,Calebe Fernandes,lucca56@example.net,Freitas,PR,23,2025-06-13,Notebook,2893.77
+3,Calebe Fernandes,lucca56@example.net,Freitas,PR,29,2025-08-31,Monitor,783.86
+3,Calebe Fernandes,lucca56@example.net,Freitas,PR,40,2025-07-07,Mouse,2597.97
+3,Calebe Fernandes,lucca56@example.net,Freitas,PR,56,2025-10-21,Teclado,1050.42
+3,Calebe Fernandes,lucca56@example.net,Freitas,PR,87,2025-08-05,Notebook,671.04
+4,Carlos Eduardo Pimenta,irezende@example.net,Barros,RO,1,2025-06-10,Mouse,519.58
+4,Carlos Eduardo Pimenta,irezende@example.net,Barros,RO,4,2025-08-29,Mouse,1504.26
+4,Carlos Eduardo Pimenta,irezende@example.net,Barros,RO,39,2025-09-19,Monitor,951.96
+5,Ana Lívia Santos,araujoluiz-felipe@example.net,Moraes,GO,8,2025-09-03,Mouse,77.59
+5,Ana Lívia Santos,araujoluiz-felipe@example.net,Moraes,GO,12,2025-09-09,Mouse,1050.25
+5,Ana Lívia Santos,araujoluiz-felipe@example.net,Moraes,GO,22,2025-08-16,Headset,230.21
+5,Ana Lívia Santos,araujoluiz-felipe@example.net,Moraes,GO,26,2025-10-07,Notebook,270.86
+5,Ana Lívia Santos,araujoluiz-felipe@example.net,Moraes,GO,33,2025-10-19,Monitor,1537.59
+5,Ana Lívia Santos,araujoluiz-felipe@example.net,Moraes,GO,77,2025-06-08,Notebook,1292.89
+6,Vitória Montenegro,igor64@example.org,Garcia,MT,35,2025-07-03,Mouse,365.4
+6,Vitória Montenegro,igor64@example.org,Garcia,MT,43,2025-05-23,Teclado,314.22
+6,Vitória Montenegro,igor64@example.org,Garcia,MT,44,2025-09-30,Notebook,1608.12
+6,Vitória Montenegro,igor64@example.org,Garcia,MT,52,2025-05-07,Headset,2008.47
+6,Vitória Montenegro,igor64@example.org,Garcia,MT,76,2025-08-30,Mouse,2278.17
+6,Vitória Montenegro,igor64@example.org,Garcia,MT,80,2025-06-27,Headset,2095.61
+6,Vitória Montenegro,igor64@example.org,Garcia,MT,89,2025-09-18,Mouse,2770.88
+7,Hadassa Siqueira,uda-rosa@example.net,da Mota Grande,AC,16,2025-07-18,Teclado,2106.59
+7,Hadassa Siqueira,uda-rosa@example.net,da Mota Grande,AC,53,2025-09-02,Headset,2972.08
+7,Hadassa Siqueira,uda-rosa@example.net,da Mota Grande,AC,67,2025-10-27,Notebook,583.29
+8,Daniela Caldeira,ana-lizguerra@example.com,Siqueira de Araújo,SP,13,2025-05-15,Monitor,2956.39
+8,Daniela Caldeira,ana-lizguerra@example.com,Siqueira de Araújo,SP,51,2025-07-05,Mouse,1724.12
+8,Daniela Caldeira,ana-lizguerra@example.com,Siqueira de Araújo,SP,70,2025-06-27,Notebook,1519.12
+8,Daniela Caldeira,ana-lizguerra@example.com,Siqueira de Araújo,SP,81,2025-08-03,Teclado,1392.27
+8,Daniela Caldeira,ana-lizguerra@example.com,Siqueira de Araújo,SP,99,2025-08-09,Mouse,2107.97
+9,Lorenzo Castro,nataliacassiano@example.org,Lopes do Sul,RO,3,2025-09-23,Mouse,1996.95
+9,Lorenzo Castro,nataliacassiano@example.org,Lopes do Sul,RO,41,2025-09-07,Mouse,512.61
+9,Lorenzo Castro,nataliacassiano@example.org,Lopes do Sul,RO,92,2025-10-29,Monitor,2590.62
+10,Maria Isis Cavalcanti,cavalcanteandre@example.com,Macedo,MG,6,2025-05-10,Headset,2434.91
+10,Maria Isis Cavalcanti,cavalcanteandre@example.com,Macedo,MG,78,2025-09-11,Notebook,2792.51
+10,Maria Isis Cavalcanti,cavalcanteandre@example.com,Macedo,MG,88,2025-08-29,Monitor,1725.76
+10,Maria Isis Cavalcanti,cavalcanteandre@example.com,Macedo,MG,97,2025-08-21,Monitor,91.59
+11,Juan Cavalcanti,pedro-lucas87@example.com,Marques das Pedras,PA,47,2025-05-14,Mouse,2725.29
+11,Juan Cavalcanti,pedro-lucas87@example.com,Marques das Pedras,PA,55,2025-10-22,Notebook,1279.34
+11,Juan Cavalcanti,pedro-lucas87@example.com,Marques das Pedras,PA,72,2025-05-28,Monitor,1670.62
+12,Lívia Nogueira,ana-liviacorreia@example.com,Guerra da Mata,ES,45,2025-08-20,Notebook,1904.11
+12,Lívia Nogueira,ana-liviacorreia@example.com,Guerra da Mata,ES,64,2025-09-15,Headset,1189.91
+12,Lívia Nogueira,ana-liviacorreia@example.com,Guerra da Mata,ES,65,2025-09-26,Headset,962.73
+12,Lívia Nogueira,ana-liviacorreia@example.com,Guerra da Mata,ES,66,2025-05-30,Headset,1031.57
+13,Leonardo Casa Grande,wda-costa@example.net,Pires,SC,18,2025-05-16,Notebook,2556.7
+13,Leonardo Casa Grande,wda-costa@example.net,Pires,SC,25,2025-09-11,Teclado,390.35
+13,Leonardo Casa Grande,wda-costa@example.net,Pires,SC,28,2025-10-02,Teclado,470.74
+13,Leonardo Casa Grande,wda-costa@example.net,Pires,SC,42,2025-06-09,Notebook,268.69
+13,Leonardo Casa Grande,wda-costa@example.net,Pires,SC,58,2025-06-08,Headset,741.29
+14,Lívia Castro,da-matahenrique@example.net,Rezende,AP,14,2025-08-14,Headset,1615.0
+14,Lívia Castro,da-matahenrique@example.net,Rezende,AP,21,2025-06-06,Teclado,2281.69
+14,Lívia Castro,da-matahenrique@example.net,Rezende,AP,24,2025-08-27,Headset,947.58
+14,Lívia Castro,da-matahenrique@example.net,Rezende,AP,31,2025-05-01,Mouse,2788.68
+14,Lívia Castro,da-matahenrique@example.net,Rezende,AP,37,2025-06-05,Mouse,735.42
+15,Isaque Gomes,oliver55@example.com,Casa Grande do Amparo,MS,11,2025-06-14,Mouse,2650.28
+15,Isaque Gomes,oliver55@example.com,Casa Grande do Amparo,MS,15,2025-09-25,Mouse,233.57
+15,Isaque Gomes,oliver55@example.com,Casa Grande do Amparo,MS,27,2025-05-28,Monitor,1701.82
+15,Isaque Gomes,oliver55@example.com,Casa Grande do Amparo,MS,49,2025-09-06,Notebook,454.75
+15,Isaque Gomes,oliver55@example.com,Casa Grande do Amparo,MS,54,2025-08-09,Monitor,2786.66
+15,Isaque Gomes,oliver55@example.com,Casa Grande do Amparo,MS,71,2025-08-20,Mouse,847.41
+15,Isaque Gomes,oliver55@example.com,Casa Grande do Amparo,MS,74,2025-10-02,Mouse,1707.87
+15,Isaque Gomes,oliver55@example.com,Casa Grande do Amparo,MS,90,2025-05-17,Monitor,283.55
+15,Isaque Gomes,oliver55@example.com,Casa Grande do Amparo,MS,95,2025-07-18,Headset,2917.52
+16,Henry Novais,juanda-conceicao@example.com,Carvalho Verde,SC,2,2025-07-18,Teclado,126.42
+16,Henry Novais,juanda-conceicao@example.com,Carvalho Verde,SC,30,2025-08-19,Notebook,1993.48
+16,Henry Novais,juanda-conceicao@example.com,Carvalho Verde,SC,32,2025-07-31,Teclado,235.27
+17,Luísa Porto,joaquimdas-neves@example.com,Lopes,BA,19,2025-10-26,Headset,886.98
+17,Luísa Porto,joaquimdas-neves@example.com,Lopes,BA,96,2025-05-08,Headset,2795.77
+17,Luísa Porto,joaquimdas-neves@example.com,Lopes,BA,100,2025-08-19,Teclado,1548.18
+18,Leandro Castro,jda-paz@example.com,Fonseca,GO,9,2025-07-31,Headset,141.13
+18,Leandro Castro,jda-paz@example.com,Fonseca,GO,17,2025-10-21,Headset,2516.78
+18,Leandro Castro,jda-paz@example.com,Fonseca,GO,36,2025-08-29,Monitor,2962.36
+18,Leandro Castro,jda-paz@example.com,Fonseca,GO,38,2025-08-01,Mouse,1359.92
+18,Leandro Castro,jda-paz@example.com,Fonseca,GO,63,2025-10-08,Headset,719.19
+18,Leandro Castro,jda-paz@example.com,Fonseca,GO,68,2025-10-06,Mouse,1153.57
+18,Leandro Castro,jda-paz@example.com,Fonseca,GO,84,2025-07-23,Teclado,1814.22
+18,Leandro Castro,jda-paz@example.com,Fonseca,GO,94,2025-07-26,Monitor,2070.17
+19,Gabriela Sampaio,isampaio@example.com,Costa da Praia,RO,82,2025-08-20,Teclado,2046.82
+19,Gabriela Sampaio,isampaio@example.com,Costa da Praia,RO,91,2025-10-09,Headset,2864.23
+20,Luna Gonçalves,gabrielasouza@example.net,Cirino,RR,5,2025-06-11,Notebook,281.88
+20,Luna Gonçalves,gabrielasouza@example.net,Cirino,RR,48,2025-05-05,Monitor,2690.86
+20,Luna Gonçalves,gabrielasouza@example.net,Cirino,RR,57,2025-05-04,Mouse,810.6
+20,Luna Gonçalves,gabrielasouza@example.net,Cirino,RR,61,2025-10-09,Notebook,94.39
+20,Luna Gonçalves,gabrielasouza@example.net,Cirino,RR,73,2025-09-28,Monitor,199.96
+20,Luna Gonçalves,gabrielasouza@example.net,Cirino,RR,75,2025-10-23,Teclado,807.57
+20,Luna Gonçalves,gabrielasouza@example.net,Cirino,RR,79,2025-10-14,Headset,813.09
