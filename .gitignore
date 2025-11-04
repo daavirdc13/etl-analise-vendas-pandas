@@ -1,0 +1,11 @@
+# Ignorar ambiente virtual
+.venv/
+venv/
+
+# Cache e arquivos compilados
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+.DS_Store
+*.log
